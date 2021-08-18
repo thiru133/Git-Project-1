@@ -1,0 +1,10 @@
+GIT Commands
+
+touch helloworld.py
+git status 
+git add helloworld.py
+git commit -m "Added helloworld file"
+git status
+
+git add . (add all modified in staging area)
+
